@@ -36,3 +36,5 @@ All the cleaned csv data was imported in Microsoft PowerBI to build dashboards. 
 
 Player Analytics for each category can be found by following the sub-tabs in the Player Analytics tab.
 The final playing-11 can be chosen in the Final Playing-11 tab in the dashboard.
+
+The list of shortlisted players for the final playing-11 can also be found in the Final-11.xlsx file in the repository.
