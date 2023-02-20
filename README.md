@@ -20,7 +20,7 @@ The parameters and the corresponding criteria for each category can be found in 
 
 ### 1) Scraping the data:
 
-For this project, four types of data were scraped from the (ESPNcricinfo)[https://stats.espncricinfo.com/ci/engine/records/index.html] website: match results, batting and bowling stats for each match and, individual player details.
+For this project, four types of data were scraped from the [ESPNcricinfo](https://stats.espncricinfo.com/ci/engine/records/index.html) website: match results, batting and bowling stats for each match and, individual player details.
 
 Web scraping was performed using Selenium and BeautifulSoup libraries in Python. The code for web scraping can be found in ESPNwebscraping.ipynb file and the scraped data can be found in the scraped-data folder in this repository.
 
